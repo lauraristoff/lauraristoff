@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Laura Ristoff
 ---
-I am a front-end web developer specializing in HTML5, CSS3, and JavaScript languages. 
+Front-end web developer specializing in HTML5, CSS3, and JavaScript languages. 
 
-I am a certified Adobe PRofessional in Visual Design using Photoshop and Illustrator. 
+Adobe Certified Professional in Visual Design using Photoshop and Illustrator. 
 
 I am an incoming intern at <a href="https://www.knowbe4.com/">KnowBe4</a>, and amazing Cybersecurity Awareness training company! 
 
