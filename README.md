@@ -1,10 +1,12 @@
-### Hi there 👋, I am Laura Ristoff
----
+ 
+
+<h1>Laura Ristoff </h1> <a href="https://www.lauraristoff.com/"><img src="https://github.com/lauraristoff/pictures/blob/main/Logo_transparent.png" alt="laura ristoff logo" width="150" height="150" style="display:inline-block" /></a>
+
 Front-end web developer specializing in HTML5, CSS3, and JavaScript languages. 
 
 Adobe Certified Professional in Visual Design using Photoshop and Illustrator. 
 
-I am an incoming intern at <a href="https://www.knowbe4.com/">KnowBe4</a>
+I will be working at <a href="https://www.knowbe4.com/">KnowBe4</a> this summer as an intern
 
 ---
 🧰 Toolbox 
