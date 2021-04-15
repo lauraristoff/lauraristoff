@@ -17,7 +17,7 @@ I will be working at <a href="https://www.knowbe4.com/">KnowBe4</a> this summer 
 
 Find me on: 
 
-<a href="https://www.linkedin.com/in/laura-ristoff-77336b1a0/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin logo icon" width="50" height="50" /></a> <a href="https://twitter.com/LauraRistoff"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter logo icon" width="50" height="50" /></a> <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="facebook logo icon" width="50" height="50" /> <img src="https://github.com/shalinguyen/socialicious/blob/master/svg/icon_instagram-sign.svg" alt="instragram logo icon" width="50" height="50" />
+<a href="https://www.linkedin.com/in/laura-ristoff-77336b1a0/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin logo icon" width="50" height="50" /></a> <a href="https://twitter.com/LauraRistoff"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter logo icon" width="50" height="50" /></a> <a href="https://www.facebook.com/lauraristoff/"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="facebook logo icon" width="50" height="50" /></a>  <a href="https://www.instagram.com/lauraristoff83/"><img src="https://github.com/shalinguyen/socialicious/blob/master/svg/icon_instagram-sign.svg" alt="instragram logo icon" width="50" height="50" /></a>
 <!---
 Here are some ideas to get you started:
 
