@@ -2,7 +2,7 @@
 
 <a href="https://www.lauraristoff.com/"><img src="https://github.com/lauraristoff/pictures/blob/main/Logo_transparent.png" alt="laura ristoff logo" width="150" height="150" style="display:inline-block" /></a>
 
-Front-end web developer specializing in HTML5, CSS3, and JavaScript languages. 
+Frontend web developer specializing in HTML5, CSS3, and JavaScript languages. 
 
 Adobe Certified Professional in Visual Design using Photoshop and Illustrator. 
 
