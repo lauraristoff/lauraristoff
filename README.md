@@ -6,7 +6,7 @@ Frontend web developer specializing in HTML5, CSS3, and JavaScript languages.
 
 Adobe Certified Professional in Visual Design using Photoshop and Illustrator. 
 
-I will be working at <a href="https://www.knowbe4.com/">KnowBe4</a> this summer as a web development intern
+I am a courseware frontend developer at <a href="https://www.knowbe4.com/">KnowBe4</a>
 
 ---
 🧰 Development Toolbox 
